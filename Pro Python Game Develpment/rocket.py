@@ -4,8 +4,8 @@ pygame.init()
 WIDTH=1000
 HEIGHT=600
 screen=pygame.display.set_mode((WIDTH, HEIGHT))
-space=pygame.image.load("/Volumes/Data/Боби/Coding/Pro Python Game Develpment/Pro-Python-Game-Development-main/Pro Python Game Develpment/space.jpeg")
-rocket=pygame.image.load('/Volumes/Data/Боби/Coding/Pro Python Game Develpment/Pro-Python-Game-Development-main/Pro Python Game Develpment/rocket.jpeg')
+space=pygame.image.load("/Volumes/Data/Боби/Coding/Pro Python Game Develpment/space.jpeg")
+rocket=pygame.image.load('/Volumes/Data/Боби/Coding/Pro Python Game Develpment/rocket.jpeg')
 x=500
 y=200
 keys=[False, False, False, False]
